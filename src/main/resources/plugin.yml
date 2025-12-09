@@ -1,0 +1,7 @@
+name: ItemFlex
+main: me.itemflex.ItemFlex
+version: 1.0
+api-version: 1.21
+commands:
+  item:
+    description: Shows the item you're holding in chat
