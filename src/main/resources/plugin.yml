@@ -1,7 +1,11 @@
 name: ItemFlex
-main: me.itemflex.ItemFlex
 version: 1.0
+main: me.itemflex.ItemFlex
 api-version: 1.21
+author: Viizorr
+description: Simple /item showcase plugin
+
 commands:
   item:
-    description: Shows the item you're holding in chat
+    description: Shows the item you're holding
+    usage: /item
